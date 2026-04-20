@@ -58,7 +58,7 @@
 Here’s how the repo is organised – each folder is a self‑contained world.
 
 ```text
-📦 your-repo-name
+📦 Python 
  ┣ 📂 AI-Sastra/               → 🔥 FLAGSHIP PROJECT (ongoing)
  ┣ 📂 Assignment/              → 🎓 College assignments & small programs
  ┣ 📂 Project-by-Rudra/        → 💡 Personal experiments & creations
