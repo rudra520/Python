@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# 🚀 Welcome to the Dev Ecosystem
+# 🚀 Welcome to the AI Sastra Ecosystem
 
 ### *Where Learning, Innovation, and Practice Collide*
 
