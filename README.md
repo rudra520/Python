@@ -26,8 +26,7 @@
 - [🧠 Assignment Hub](#-assignment-hub)
 - [✨ Project by Rudra](#-project-by-rudra)
 - [📡 Cisco Free Course Practice](#-cisco-free-course-practice)
-- [📅 Coming Soon](#-coming-soon)
-- [🚀 How to Explore](#-how-to-explore)
+
 
 ---
 
