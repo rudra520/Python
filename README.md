@@ -12,7 +12,7 @@
 
 [![Repo Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername/your-repo-name)
 [![AI Sastra](https://img.shields.io/badge/AI_Sastra-Coming_Soon-ff69b4?style=for-the-badge&logo=ai&logoColor=white)](https://github.com/yourusername/your-repo-name/tree/main/AI-Sastra)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![License](https://img.shields.io/badge/License-UIT-blue?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)](https://github.com/yourusername)
 
 </div>
