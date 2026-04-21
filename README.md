@@ -21,7 +21,7 @@
 
 ## 📖 Table of Contents
 
-- [🌟 Featured Project: AI Sastra](#-featured-project-ai-sastra)
+- [🌟 Featured Project: AI Sastra](#-featured-project-ai-sastra) 
 - [📁 Repository Structure](#-repository-structure)
 - [🧠 Assignment Hub](#-assignment-hub)
 - [✨ Project by Rudra](#-project-by-rudra)
