@@ -11,9 +11,8 @@
 ### *Where Learning, Innovation, and Practice Collide*
 
 [![Repo Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername/your-repo-name)
-[![AI Sastra](https://img.shields.io/badge/AI_Sastra-Coming_Soon-ff69b4?style=for-the-badge&logo=ai&logoColor=white)](https://github.com/yourusername/your-repo-name/tree/main/AI-Sastra)
+[![AI Sastra](https://img.shields.io/badge/AI_Sastra-On_Branch-ff69b4?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yourusername/your-repo-name/tree/ai-sastra)
 [![License](https://img.shields.io/badge/License-UIT-blue?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
-
 
 </div>
 
@@ -27,12 +26,13 @@
 - [✨ Project by Rudra](#-project-by-rudra)
 - [📡 Cisco Free Course Practice](#-cisco-free-course-practice)
 
-
 ---
 
 ## 🌟 Featured Project: AI Sastra
 
 > **Unifying AI and coteries based on age and work** — a next‑gen AI ecosystem tailored for different generations.
+
+> ℹ️ **Note:** AI Sastra development has moved to the dedicated branch [`ai-sastra`](https://github.com/yourusername/your-repo-name/tree/ai-sastra). The main branch contains only assignments, experiments, and practice files.
 
 <details open>
 <summary><strong>🔍 Click to expand – AI Sastra vision</strong></summary>
@@ -47,7 +47,7 @@
 | **Gen Z** (students, researchers, innovators) | 🧠 AI dedicated to **research innovation**, trend analysis, creative problem‑solving, and personal knowledge management. | Accelerates learning, fuels creativity, and keeps users ahead of the curve. |
 
 > ✨ *Both AI models are being designed to be conversational, adaptive, and privacy‑conscious.*  
-> 🎯 *Status: **Active development** – prototypes coming soon!*
+> 🎯 *Status: **Active development on `ai-sastra` branch** – prototypes coming soon!*
 
 </details>
 
@@ -58,8 +58,10 @@
 Here’s how the repo is organised – each folder is a self‑contained world.
 
 ```text
-📦 Python 
- ┣ 📂 AI-Sastra/               → 🔥 FLAGSHIP PROJECT (ongoing)
- ┣ 📂 Assignment/              → 🎓 College assignments & small programs
- ┣ 📂 Project-by-Rudra/        → 💡 Personal experiments & creations
- ┗ 📂 Cisco-Free-Course-Practice/ → 🌐 Cisco Networking Academy exercises
+📦 Python (main branch)
+ ┣ 📂 Assignment/                  → 🎓 College assignments & small programs
+ ┣ 📂 Project-by-Rudra/            → 💡 Personal experiments & creations
+ ┗ 📂 Cisco-Free-Course-Practice/  → 🌐 Cisco Networking Academy exercises
+
+🌿 Branch: ai-sastra
+ ┗ 📂 AI-Sastra/                   → 🔥 FLAGSHIP PROJECT (active development)
