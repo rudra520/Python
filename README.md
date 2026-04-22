@@ -63,5 +63,5 @@ Here’s how the repo is organised – each folder is a self‑contained world.
  ┣ 📂 Project-by-Rudra/            → 💡 Personal experiments & creations
  ┗ 📂 Cisco-Free-Course-Practice/  → 🌐 Cisco Networking Academy exercises
 
-🌿 Branch: ai-sastra
+🗡️ Branch: ai-sastra
  ┗ 📂 AI-Sastra/                   → 🔥 FLAGSHIP PROJECT (active development)
