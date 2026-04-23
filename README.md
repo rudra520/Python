@@ -58,7 +58,7 @@
 Here’s how the repo is organised – each folder is a self‑contained world.
 
 ```text
-📦 Python (main branch)
+📦 Python (Python branch)
  ┣ 📂 Assignment/                  → 🎓 College assignments & small programs
  ┣ 📂 Project-by-Rudra/            → 💡 Personal experiments & creations
  ┗ 📂 Cisco-Free-Course-Practice/  → 🌐 Cisco Networking Academy exercises
