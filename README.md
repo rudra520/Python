@@ -36,35 +36,50 @@ Whether you're here to steal a useful script or just curious how *positional vs.
 ```
 
 
-## 🔥 Featured Scripts
+```markdown
+## 🔥 Featured Scripts (New & Improved)
 
-### 1. WhatsApp Bulk Messenger (`whatappmassagesender.py`)
+### 1. WhatsApp Bulk Messenger (`Project by Rudra/whatappmassagesender.py`)
 Send automated WhatsApp messages to multiple contacts using `pywhatkit`.  
-*Perfect for reminders, festive wishes, or just annoying your friends* 😉
+*Ideal for reminders, bulk alerts, or festive wishes.*
 
 ```python
-# Quick peek
 import pywhatkit
-pywhatkit.sendwhatmsg("+91XXXXXX", "Hello from Rudra's bot!", 15, 30)
+pywhatkit.sendwhatmsg("+91XXXXXX", "Hello from Rudra!", 15, 30)
 ```
 
-### 2. Sales Automation (`ASSIGNMENTS/Sales Automation.py`)
-Generates sales summaries, CSV reports, or email drafts – built for a college assignment, but works for real hustle.
+### 2. Piechart Generator (`Project by Rudra/Piechart.py`)
+Create beautiful pie charts directly from user input using `matplotlib`.  
+No data wrangling – just enter labels & values, get a chart.
 
-### 3. Cisco Network Toolkit (`Project by Rudra/cisco/`)
-SSH config push, VLAN setup, or interface status checker – simplify your CCNA lab work with Python + Netmiko.
+```bash
+python Piechart.py
+# Enter sales: 500, marketing: 300, R&D: 200 → boom! 🥧
+```
 
-### 4. Function Argument Demos (`Function/`)
-Learn Python arguments the visual way:
-- `positional parameter passing.py` → basics
-- `Keyword argument passing.py` → readability wins
-- `Mixing positional and keyword .py` → best practices
-- `Parametrized functions.py` → default values & flexibility
+### 3. QR Code Creator (`Project by Rudra/QRCODE.py`)
+Generate a QR code instantly from any URL using the `qrcode` library.  
+Great for sharing links, Wi-Fi configs, or contact cards.
 
-### 5. Foundation Series (`Foundation/`)
-From `program01.py` (hello world) to `program04.py` (loops & lists) – my stepping stones into Python.
+```python
+python QRCODE.py
+# Paste your URL → qrcode.png appears in the folder
+```
 
----
+### 4. Cisco Network Automation (`cisco/`)
+Scripts to push configs, check interfaces, or automate VLANs – ideal for CCNA/NetDevOps.
+
+- **Foundation scripts** (`cisco/Foundation/program01.py` to `04.py`) – Python basics tailored for networking.
+- **Function demos** (`cisco/Function/`) – Master positional, keyword, mixed, and parametrized arguments in Python.
+
+### 5. Sales Automation (`ASSIGNMENTS/Sales Automation.py`)
+Auto-generate CSV sales reports or email summaries – built for an assignment but scalable for real use.
+
+### 6. Number Converter (`ASSIGNMENTS/numconverter.py`)
+Convert between binary, hex, decimal – perfect for low‑level debugging or exam prep.
+```
+
+Would you like me to regenerate the **entire README** with this updated structure and featured section?
 
 ## 🛠️ How to Run
 
