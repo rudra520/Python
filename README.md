@@ -1,9 +1,9 @@
-```markdown
+
 # 🚀 Rudra's Python Playground
 
 Welcome to my personal collection of Python experiments, automation tools, and learning snippets — from **WhatsApp bulk messaging** to **Cisco network scripting** and **function argument mastery**.  
 Whether you're here to steal a useful script or just curious how *positional vs. keyword arguments* work, you're in the right place. 😎
-```
+
 
 ## 📂 What's Inside?
 
