@@ -77,7 +77,7 @@ Auto-generate CSV sales reports or email summaries – built for an assignment b
 
 ### 6. Number Converter (`ASSIGNMENTS/numconverter.py`)
 Convert between binary, hex, decimal – perfect for low‑level debugging or exam prep.
-```
+
 
 Would you like me to regenerate the **entire README** with this updated structure and featured section?
 
