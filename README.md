@@ -36,7 +36,7 @@ Whether you're here to steal a useful script or just curious how *positional vs.
 ```
 
 
-```markdown
+
 ## 🔥 Featured Scripts (New & Improved)
 
 ### 1. WhatsApp Bulk Messenger (`Project by Rudra/whatappmassagesender.py`)
