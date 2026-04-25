@@ -15,18 +15,21 @@ Whether you're here to steal a useful script or just curious how *positional vs.
 │
 ├── 📁 Project by Rudra
 │   ├── whatappmassagesender.py   # Send bulk WhatsApp messages (PyWhatKit)
-│   └── 📁 cisco                  # Cisco network automation scripts
-│
-├── 📁 Foundation
-│   ├── program01.py ~ program04.py  # Core Python basics (loops, conditions, I/O)
-│
-├── 📁 Function
-│   ├── Function-1.py
-│   ├── Keyword argument passing.py
-│   ├── Mixing positional and keyword argument.py
-│   ├── Parametrized functions.py
-│   ├── positional parameter passing.py
-│   └── positional parameter passing 2.py
+│   ├── Piechart.py               # Create Piechart by user input (Matplotlib)
+│   ├── QRCODE.py                 # Create QR code by givig just url (qrcode)
+│  
+│ 
+├── 📁 cisco                      # Cisco network automation scripts
+│     ├── 📁 Foundation
+│     │    ├── program01.py ~ program04.py  # Core Python basics (loops, conditions, I/O)
+│     │
+│     ├── 📁 Function
+│          ├── Function-1.py
+│          ├── Keyword argument passing.py
+│          ├── Mixing positional and keyword argument.py
+│          ├── Parametrized functions.py
+│          ├── positional parameter passing.py
+│          └── positional parameter passing 2.py
 │
 └── 📄 README.md                   # You are here ✨
 
