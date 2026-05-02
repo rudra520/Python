@@ -124,6 +124,6 @@ MIT — use it, break it, improve it, and don't forget to star ⭐ if you found 
 
 ---
 
-**Made with ☕ and many Stack Overflow tabs by Rudra**  
+**Made with HardWork and many Stack Overflow tabs by Rudra**  
 
 
