@@ -24,3 +24,23 @@ print(t1)
 print(t2)
 print(10 in my_tuple)
 print(-10 not in my_tuple)
+
+
+# count() method
+tup = 1, 2, 3, 2, 4, 5, 6, 2, 7, 2, 8, 9
+duplicates = tup.count(2)
+
+print(duplicates)    # outputs: 4
+
+
+# program that will convert the my_list list to a tuple
+my_list = ["car", "Ford", "flower", "Tulip"]
+
+t = tuple(my_list)
+print(t)
+
+# convert the colors tuple to a dictionary.
+colors = (("green", "#008000"), ("blue", "#0000FF"))
+
+colors_dictionary = dict(colors)
+print(colors_dictionary)
