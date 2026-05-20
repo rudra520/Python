@@ -143,32 +143,6 @@ Enter URL: https://github.com/rudra520
 
 ---
 
-### 4. **Cisco Network Automation** `⭐⭐⭐⭐⭐`
-> 📁 `cisco/`
-
-Scripts for network engineers to automate Cisco device configurations, VLAN management, and interface monitoring.
-
-**Modules:**
-- 🏗️ **Foundation** – Python basics for networking
-- 🔧 **Function** – Master argument passing patterns
-
-<details>
-<summary>📌 Learning Outcomes</summary>
-
-| Topic | Script |
-|-------|--------|
-| Loops & Conditionals | `Foundation/program01.py` |
-| String Operations | `Foundation/program02.py` |
-| Input/Output | `Foundation/program03.py` |
-| Data Structures | `Foundation/program04.py` |
-| Positional Arguments | `Function/positional parameter passing.py` |
-| Keyword Arguments | `Function/Keyword argument passing.py` |
-| Mixed Arguments | `Function/Mixing positional and keyword argument.py` |
-
-</details>
-
----
-
 ### 5. **Sales Automation** `⭐⭐⭐`
 > 📁 `ASSIGNMENTS/Sales Automation.py`
 
