@@ -143,22 +143,6 @@ Enter URL: https://github.com/rudra520
 
 ---
 
-### 5. **Sales Automation** `⭐⭐⭐`
-> 📁 `ASSIGNMENTS/Sales Automation.py`
-
-Auto-generate CSV sales reports and email summaries programmatically.
-
-<details>
-<summary>📌 Features</summary>
-
-- 📊 Generate reports in CSV/JSON
-- 📧 Email report attachments
-- 🔄 Batch processing support
-
-</details>
-
----
-
 ### 6. **Number Converter** `⭐⭐⭐`
 > 📁 `ASSIGNMENTS/numconverter.py`
 
