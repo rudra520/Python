@@ -143,18 +143,6 @@ Enter URL: https://github.com/rudra520
 
 ---
 
-### 6. **Number Converter** `⭐⭐⭐`
-> 📁 `ASSIGNMENTS/numconverter.py`
-
-Convert between **binary**, **hexadecimal**, and **decimal** formats.
-
-**Great for:**
-- 🐛 Low-level debugging
-- 📖 Exam preparation
-- 🧮 Learning number systems
-
----
-
 ## 🛠️ Installation & Setup
 
 <details open>
