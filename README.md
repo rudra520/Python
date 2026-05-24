@@ -8,7 +8,6 @@ Welcome to my personal collection of **Python experiments**, **automation tools*
 
 Whether you're here to steal a useful script or just curious how *positional vs. keyword arguments* work, you're in the right place. 😎
 
--
 ## 📑 Table of Contents
 - [📂 Repository Structure](#-repository-structure)
 - [🔥 Featured Scripts](#-featured-scripts)
