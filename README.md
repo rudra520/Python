@@ -4,7 +4,6 @@
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-green?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![GitHub Stars](https://img.shields.io/github/stars/rudra520/Python?style=flat-square)](https://github.com/rudra520/Python/stargazers)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--15-lightgrey?style=flat-square)](https://github.com/rudra520/Python)
-
 Welcome to my personal collection of **Python experiments**, **automation tools**, and **learning snippets** — from **WhatsApp bulk messaging** to **Cisco network scripting** and **function argument mastery**. 
 
 Whether you're here to steal a useful script or just curious how *positional vs. keyword arguments* work, you're in the right place. 😎
