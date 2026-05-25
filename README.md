@@ -238,7 +238,6 @@ python QRCODE.py
 | **Function Arguments** | ⭐⭐ Intermediate | `cisco/Function/` | 2-3 hrs |
 | **Automation with PyWhatKit** | ⭐⭐ Intermediate | `whatappmassagesender.py` | 1-2 hrs |
 | **Data Visualization** | ⭐⭐ Intermediate | `Piechart.py` | 1 hr |
-| **Network Automation** | ⭐⭐⭐ Advanced | `cisco/` | 3+ hrs |
 
 ---
 
