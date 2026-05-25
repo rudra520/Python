@@ -173,8 +173,7 @@ pip install pywhatkit matplotlib qrcode pillow netmiko
 pip install pywhatkit    # WhatsApp messaging
 pip install matplotlib   # Pie charts
 pip install qrcode       # QR code generation
-pip install pillow       # Image processing
-pip install netmiko      # Cisco automation
+pip install pillow       # Image processing   
 ```
 
 </details>
