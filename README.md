@@ -228,16 +228,6 @@ python QRCODE.py
 
 </details>
 
-<details>
-<summary><b>🌐 Run Cisco Foundation Scripts</b></summary>
-
-```bash
-cd cisco/Foundation
-python program01.py
-```
-
-</details>
-
 ---
 
 ## 📚 Learning Topics
