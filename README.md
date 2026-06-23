@@ -351,7 +351,7 @@ Hi! I'm **Rudra**, a Python enthusiast passionate about:
 
 <div align="center">
 
-**Made with ❤️ and many Stack Overflow tabs by Rudra**
+**Made with ❤️ and many Stack Overflow tabs by Rudra Pratap Singh**
 
 *If you found this repository helpful, please consider giving it a ⭐ star!*
 
