@@ -297,7 +297,7 @@ I welcome contributions! Here's how to help:
    git push origin feature/your-feature-name
    ```
 
-**All skill levels welcome!** 🎉
+**All skill levels welcome!** 
 
 </details>
 
